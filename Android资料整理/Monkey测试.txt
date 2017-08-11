@@ -1,1 +1,3 @@
 http://blog.csdn.net/lfyx1357/article/details/7418133
+
+如何停止Monkey测试:http://blog.csdn.net/liuweiweiwei/article/details/50913792
